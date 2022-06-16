@@ -22,7 +22,7 @@ Edit `gca/ethereum/keys.js` file and assign the variables
 `const PHRASE = 'PASTE_HERE';`
 * provider url from infura or local RPC url  
 `const PROVIDER_URL = 'PASTE_HERE';`
-* contract address from deployement process (STEP 2)  
+* contract address from deployment process (STEP 2)  
 `const CONTRACT_ADDRESS = 'PASTE_HERE';`
 
 STEP 4:  
