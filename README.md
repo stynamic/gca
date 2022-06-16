@@ -16,7 +16,7 @@ Compile and Deploy
 * deploy `npm run deploy`  
 (copy the address of deployed contract from console)
 
-STEP 3:
+STEP 3:  
 Edit `gca/ethereum/keys.js` file and assign the variables
 * account mnemonic  
 `const PHRASE = 'PASTE_HERE';`
@@ -25,6 +25,6 @@ Edit `gca/ethereum/keys.js` file and assign the variables
 * contract address from deployement process (STEP 2)  
 `const CONTRACT_ADDRESS = 'PASTE_HERE';`
 
-STEP 4:
+STEP 4:  
 Ready to compile and run the DAPP
 * run `npm run dev`
